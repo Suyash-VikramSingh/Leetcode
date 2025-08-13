@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0045-jump-game-ii) |
+| [0085-maximal-rectangle](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Greedy
 |  |
 | ------- |
@@ -29,4 +30,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0045-jump-game-ii) |
+| [0085-maximal-rectangle](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0085-maximal-rectangle) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
