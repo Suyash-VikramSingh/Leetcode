@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0257-binary-tree-paths](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0257-binary-tree-paths](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1300-critical-connections-in-a-network](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -114,12 +116,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0257-binary-tree-paths](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0322-coin-change) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
