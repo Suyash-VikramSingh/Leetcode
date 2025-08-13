@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
+| [1891-count-pairs-of-nodes](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1891-count-pairs-of-nodes) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1891-count-pairs-of-nodes](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1891-count-pairs-of-nodes) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Stack
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1891-count-pairs-of-nodes](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1891-count-pairs-of-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1891-count-pairs-of-nodes](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1891-count-pairs-of-nodes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1891-count-pairs-of-nodes](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1891-count-pairs-of-nodes) |
 ## Queue
 |  |
 | ------- |
@@ -192,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1300-critical-connections-in-a-network](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1891-count-pairs-of-nodes](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1891-count-pairs-of-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Biconnected Component
@@ -218,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+## Counting
+|  |
+| ------- |
+| [1891-count-pairs-of-nodes](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1891-count-pairs-of-nodes) |
 <!---LeetCode Topics End-->
