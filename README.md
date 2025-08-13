@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 ## String
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 ## Dynamic Programming
 |  |
 | ------- |
