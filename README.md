@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,8 +148,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Enumeration
+|  |
+| ------- |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 <!---LeetCode Topics End-->
