@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0322-coin-change](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0322-coin-change) |
 ## Greedy
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0322-coin-change](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0322-coin-change) |
 ## Stack
 |  |
 | ------- |
@@ -82,4 +84,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0322-coin-change](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
