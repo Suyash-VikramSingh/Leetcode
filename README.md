@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
@@ -122,4 +123,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+## Hash Table
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
