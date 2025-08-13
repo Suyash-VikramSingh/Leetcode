@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0239-sliding-window-maximum](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
@@ -131,4 +133,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
