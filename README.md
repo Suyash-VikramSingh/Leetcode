@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0257-binary-tree-paths](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0257-binary-tree-paths) |
+| [1300-critical-connections-in-a-network](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 ## Binary Tree
 |  |
 | ------- |
@@ -157,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+## Graph
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1300-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
