@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1300-critical-connections-in-a-network](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1300-critical-connections-in-a-network) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0322-coin-change](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0322-coin-change) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1300-critical-connections-in-a-network](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -182,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [2439-longest-cycle-in-a-graph](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
