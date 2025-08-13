@@ -15,12 +15,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0045-jump-game-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0045-jump-game-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0044-wildcard-matching) |
+## Array
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
