@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0045-jump-game-ii](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0045-jump-game-ii) |
 | [0079-word-search](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0322-coin-change](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0322-coin-change) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
