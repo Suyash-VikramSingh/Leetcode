@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Greedy
 |  |
@@ -51,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0131-palindrome-partitioning) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
