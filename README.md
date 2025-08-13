@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -128,11 +130,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Queue
 |  |
 | ------- |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Monotonic Queue
 |  |
 | ------- |
