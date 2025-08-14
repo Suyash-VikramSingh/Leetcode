@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Suyash-VikramSingh/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Dynamic Programming
